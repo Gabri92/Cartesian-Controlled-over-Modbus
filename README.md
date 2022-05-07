@@ -5,4 +5,4 @@ This code implement the control software of a Cartesian manipulator. The Main fu
 <b>Hardware</b>: Arduino MKS GEN v1.4, PLC CPX-E-CEC-C1-EP by Festo<br>
 <b>IDE</b>: Visual Studio Code, Codesys
  
- <b>N.B. = The code is still in progress. Some parts are missing or still to be tested</b>
+ <b>N.B. = The PLC part is missing</b>
